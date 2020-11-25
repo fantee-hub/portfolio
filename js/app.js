@@ -242,15 +242,15 @@ const tl = gsap.timeline({defaults:{ease:'power1.out'}})
 tl.to('#logo path',{
   strokeDashoffset: 0,
   stagger:.3,
-  duration:3
+  duration:2
 })
 .fromTo('#logo',{
   fill:'none',
 },{
   fill:'#ffffff'
 })
-.fromTo('.preload-text',{opacity:0, y:'100%'},{opacity:1,y:'0%',duration:1,delay:0.5})
-.to('.preload',{y:'-100%',duration:1.5,delay:0.5})
+.fromTo('.preload-text',{opacity:0, y:'100%'},{opacity:1,y:'0%',duration:1})
+.to('.preload',{y:'-100%',duration:1})
 .from('.hero',{opacity:0,y:100,stagger:0.4,duration:0.8,ease:'back'})
 .from('.nav-toggler',{opacity:0,xPercent:100,ease:'bounce',delay:0.5})
 .from('.logo',{ease:'back',opacity:0,scale:0,duration:1, delay:0.5})
