@@ -35,13 +35,25 @@ const aboutPage = function () {
         <h1> <span> A <br/> B <br/> O <br/> U <br/> T <span>
       </div>
       <div class="about-text">
-        <p>Hi! I'm Tobi. <span>I am a frontend developer from Nigeria.</span>
-        I am passionate about web development and about languages such as 
-        HTML, CSS, BOOTSTRAP, JAVASCRIPT, REACT. <span>I design beautiful and responsive
-        websites.</span></p>
-        <p>I am currently a student studying Mechanical Engineering at OBAFEMI AWOLOWO UNIVERSITY.<br/>
-        When not coding, i enjoy watching football games, playing video games, watching movies and tv shows. You can reach out to me here <span><a href="mailto:tobifaniran@gmail.com"><i class="far fa-envelope"></i> tobifaniran@gmail.com </a><span></p>
-        
+        <p class="text">Hello! I'm Tobi, <span>a passionate front-end developer</span>
+        with a background in Mechanical Engineering.  I thrive at the intersection of creativity and technology, 
+        where I transform ideas into captivating user experiences. <span>Front-end development is where i truly shine.</span>
+        I'm well-versed in a range of front-end technologies, including HTML5, CSS3, JavaScript, and popular frameworks like React.js.
+        I have a knack for translating designs into pixel-perfect, responsive web applications that engage users and 
+        deliver a seamless experience.
+        </p>
+        <p class="text">
+        What fuels my passion for front-end development is the opportunity to create visually stunning 
+        and intuitive user interfaces. I obsess over the finer details, ensuring that every button, animation, and 
+        layout contributes to a flawless user journey.
+        </p>
+        <p class="text">
+        As I look ahead, I'm eager to contribute my front-end development expertise to innovative projects and collaborate with 
+        talented professionals. I'm excited about the limitless potential of web development and the opportunity to create solutions 
+        that leave a lasting impact.
+        </p>
+        <p class="text">If you share my passion for front-end development or are interested in collaborating on web projects, I'd love to connect. Feel free to reach out, and 
+        let's explore the endless possibilities of web development together.<br/> You can reach out to me here <span><a href="mailto:tobifaniran@gmail.com"><i class="far fa-envelope"></i> tobifaniran@gmail.com </a><span></p>
       </div>
       
     </div>

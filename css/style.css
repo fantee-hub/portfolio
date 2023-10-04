@@ -223,9 +223,10 @@ nav {
   margin: 0 auto;
   text-align: left;
 }
-.about-text p {
+.about-text .text {
   line-height: 2.2;
-  font-size: 0.85rem;
+  font-size: 1rem;
+  padding-bottom: 1rem;
 }
 .about-text span {
   color: #c471f5;
