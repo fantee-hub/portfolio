@@ -58,16 +58,41 @@ const workPage = function () {
       </div>
       <div class="works">
         <div class="work-cont">
+          <img src="/images/votar.png" alt="">
+          <div class="work-text">
+            <h4>Votar</h4>
+            <p>Nextjs + Tailwind css + Typescript</p>
+          </div>
+          <div class="main-content">
+            <p>e-Voting Platform <span class="text-italic">(In progress)<span></p>
+            <span><a href="https://www.votar.ng/" class="live" target="_blank"><i class="fas fa-eye"></i> Live</a></span>
+          </div>
+       </div>
+
+
+        <div class="work-cont">
           <img src="/images/getLinked.png" alt="">
           <div class="work-text">
             <h4>getLinked</h4>
             <p>Nextjs + Tailwind css + Typescript</p>
           </div>
           <div class="main-content">
-            <p>getLinked</p>
+            <p>getLinked Landing Page</p>
             <span><a href="https://get-linked-plum.vercel.app/" class="live" target="_blank"><i class="fas fa-eye"></i> Live</a></span>
             <span><a href="https://github.com/fantee-hub/getLinked" target="_blank"><i class="fas fa-code-branch" ></i> Code</a></span>
           </div>
+        </div>
+
+        <div class="work-cont">
+          <img src="/images/funfem.png" alt="">
+            <div class="work-text">
+              <h4>Funfem Autos</h4>
+              <p>Nextjs + Typescript + Sanity</p>
+            </div>
+            <div class="main-content">
+              <p>E-commerce website for car sales and retail</p>
+              <span><a href="https://funfemautos.com/" class="live" target="_blank"><i class="fas fa-eye"></i> Live</a></span>
+            </div>
         </div>
 
         <div class="work-cont">
@@ -84,28 +109,15 @@ const workPage = function () {
         </div>
 
         <div class="work-cont">
-          <img src="/images/20201117_141318.png" alt="">
+            <img src="/images/countries.png" alt="">
             <div class="work-text">
-              <h4>Shortly</h4>
-              <p>Bootstrap + Html + Css + Javascript + API</p>
+              <h4>Where in the world?</h4>
+              <p>Nextjs + Styled Components</p>
             </div>
             <div class="main-content">
-              <p>Web app for shortening links</p>
-              <span><a href="https://shortenli.netlify.app/" class="live"><i class="fas fa-eye"></i> Live</a></span>
-              <span><a href="https://github.com/fantee-hub/shortly"><i class="fas fa-code-branch"></i> Code</a></span>
-            </div>
-        </div>
-
-        <div class="work-cont">
-            <img src="/images/20201117_200732.png" alt="">
-            <div class="work-text">
-              <h4>Dark Mode</h4>
-              <p>Html + Css + Javascript</p>
-            </div>
-            <div class="main-content">
-              <p>Dark Mode Toggler</p>
-              <span><a href="https://social-tut.netlify.app/" class="live"><i class="fas fa-eye"></i> Live</a></span>
-              <span><a href="https://github.com/fantee-hub/dark-mode"><i class="fas fa-code-branch"></i> Code</a></span>
+              <p>Search for countries anywhere in the world</p>
+              <span><a href="https://country-searches.vercel.app/" class="live" target="_blank"><i class="fas fa-eye"></i> Live</a></span>
+              <span><a href="https://github.com/fantee-hub/rest-countries-api" target="_blank"><i class="fas fa-code-branch"></i> Code</a></span>
             </div>
         </div>
 
