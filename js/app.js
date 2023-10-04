@@ -58,15 +58,15 @@ const workPage = function () {
       </div>
       <div class="works">
         <div class="work-cont">
-          <img src="/images/20201117_140515.png" alt="">
+          <img src="/images/getLinked.png" alt="">
           <div class="work-text">
-            <h4>Bookmark Manager</h4>
-            <p>Html + Css + Javascript</p>
+            <h4>getLinked</h4>
+            <p>Nextjs + Tailwind css + Typescript</p>
           </div>
           <div class="main-content">
-            <p>Bookmark Landing Page</p>
-            <span><a href="https://booky.netlify.app/" class="live"><i class="fas fa-eye"></i> Live</a></span>
-            <span><a href="https://github.com/fantee-hub/bookmark-manager"><i class="fas fa-code-branch"></i> Code</a></span>
+            <p>getLinked</p>
+            <span><a href="https://get-linked-plum.vercel.app/" class="live"><i class="fas fa-eye"></i> Live</a></span>
+            <span><a href="https://github.com/fantee-hub/getLinked"><i class="fas fa-code-branch"></i> Code</a></span>
           </div>
         </div>
 
