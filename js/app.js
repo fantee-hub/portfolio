@@ -65,8 +65,8 @@ const workPage = function () {
           </div>
           <div class="main-content">
             <p>getLinked</p>
-            <span><a href="https://get-linked-plum.vercel.app/" class="live"><i class="fas fa-eye"></i> Live</a></span>
-            <span><a href="https://github.com/fantee-hub/getLinked"><i class="fas fa-code-branch"></i> Code</a></span>
+            <span><a href="https://get-linked-plum.vercel.app/" class="live" target="_blank"><i class="fas fa-eye"></i> Live</a></span>
+            <span><a href="https://github.com/fantee-hub/getLinked" target="_blank"><i class="fas fa-code-branch" ></i> Code</a></span>
           </div>
         </div>
 
