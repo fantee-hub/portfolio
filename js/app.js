@@ -96,19 +96,6 @@ const workPage = function () {
         </div>
 
         <div class="work-cont">
-          <img src="/images/gp.png" alt="">
-            <div class="work-text">
-              <h4>Gp Calculator</h4>
-              <p>Html + Css + Javascript</p>
-            </div>
-            <div class="main-content">
-              <p>Grade Calculator</p>
-              <span><a href="https://fantee-hub.github.io/gp-calculator/" class="live"><i class="fas fa-eye"></i> Live</a></span>
-              <span><a href="https://github.com/fantee-hub/gp-calculator"><i class="fas fa-code-branch"></i> Code</a></span>
-            </div>
-        </div>
-
-        <div class="work-cont">
             <img src="/images/countries.png" alt="">
             <div class="work-text">
               <h4>Where in the world?</h4>
@@ -135,15 +122,15 @@ const workPage = function () {
         </div>
 
         <div class="work-cont">
-            <img src="/images/calculatey.png" alt="calculator">
+          <img src="/images/gp.png" alt="">
             <div class="work-text">
-              <h4>Calculator</h4>
-              <p>React + Styled Components</p>
+              <h4>Gp Calculator</h4>
+              <p>Html + Css + Javascript</p>
             </div>
             <div class="main-content">
-              <p>Calculator</p>
-              <span><a href="https://calculatey.netlify.app/" class="live"><i class="fas fa-eye"></i> Live</a></span>
-              <span><a href="https://github.com/fantee-hub/calculator"><i class="fas fa-code-branch"></i> Code</a></span>
+              <p>Grade Calculator</p>
+              <span><a href="https://fantee-hub.github.io/gp-calculator/" class="live"><i class="fas fa-eye"></i> Live</a></span>
+              <span><a href="https://github.com/fantee-hub/gp-calculator"><i class="fas fa-code-branch"></i> Code</a></span>
             </div>
         </div>
 
